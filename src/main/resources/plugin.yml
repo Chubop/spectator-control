@@ -1,0 +1,9 @@
+name: SpectatorControl
+version: 1.0
+main: spectatorcontrol.bsh.spectatorcontrol.SpectatorControl
+api-version: '1.18'
+commands:
+  spectator:
+    description: Sends a user a fun message.
+    usage: /<command>
+    permission: specatorcontrol.test
